@@ -1,6 +1,4 @@
 
-
-```markdown
 # 📊 Stock Portfolio Management System
 
 A **C++17-based console application** that enables investors and analysts to manage and monitor a portfolio of stocks and bonds. This open-ended academic project demonstrates advanced object-oriented programming techniques in C++.
